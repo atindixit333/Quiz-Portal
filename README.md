@@ -1,2 +1,2 @@
 # Quiz-Portal
-user can signup and then login and appear the quiz...
+This is a Quiz portal project for appearing the quiz 
